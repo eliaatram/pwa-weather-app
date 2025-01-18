@@ -1,0 +1,14 @@
+{
+  "name": "Weather App",
+  "short_name": "Weather",
+  "description": "This app allows users to check real weather information about cities all over the world.",
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
