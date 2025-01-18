@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/://eliaatram.github.io/pwa-weather-app/static/js/main.0276a459.js",
-    "index.html": "/://eliaatram.github.io/pwa-weather-app/index.html",
-    "main.0276a459.js.map": "/://eliaatram.github.io/pwa-weather-app/static/js/main.0276a459.js.map"
+    "main.js": "/pwa-weather-app/static/js/main.0276a459.js",
+    "index.html": "/pwa-weather-app/index.html",
+    "main.0276a459.js.map": "/pwa-weather-app/static/js/main.0276a459.js.map"
   },
   "entrypoints": [
     "static/js/main.0276a459.js"
